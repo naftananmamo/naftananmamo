@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **naftananmamo/naftananmamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Overview
@@ -30,4 +30,3 @@ My work focuses on analyzing data, building intelligent systems, and developing 
 
 
 
--->
