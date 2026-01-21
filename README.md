@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 
-**naftananmamo/naftananmamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Overview
 I am a Software Engineering graduate and an MBAI student at Ontario Tech University, with interests in data visualization, machine learning, and applied artificial intelligence.  
 My work focuses on analyzing data, building intelligent systems, and developing practical solutions.
