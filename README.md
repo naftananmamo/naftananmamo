@@ -1,7 +1,12 @@
-## Hi, I'm Naftanan Mamo👋
+## Hi, I'm Naftanan Mamo 👋
 
-I am a Software Engineering graduate and an MBAI student at Ontario Tech University, with interests in data visualization, machine learning, and applied artificial intelligence.  
-My work focuses on analyzing data, building intelligent systems, and developing practical solutions.
+I'm a Software Engineering graduate and an MBAI student at Ontario Tech University, passionate about AI/ML, data analytics, and software development.
+
+I enjoy building intelligent solutions, analyzing data, and applying machine learning to solve real-world problems.
+
+🌐 **Portfolio:** https://naftananmportfolio.netlify.app/
+💼 **LinkedIn:** https://linkedin.com/in/naftanan-mamo 
+📫 **Email:** naftanan.mamo@ontariotechu.net
 
 ## 📌 Featured Projects
 
